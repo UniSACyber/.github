@@ -15,8 +15,8 @@ This project developed a simulation framework for SDN-based space systems for th
 ### S3ID - SDN-based Space Systems Intrusion Detection
 This project developed an intrusion detection dataset for SDN-based space systems, based on the S3FS framework. The dataset includes four classes of labelled data for normal traffic, two types of SYN flood attacks, and port scanning attacks. The dataset is designed to help researchers in developing intrusion detection systems (IDS) that can detect anomalies in SDN-based space systems.
 
-- **Technology Stack:** Same as the 33FS framework including TCPDump and CICFlowMeter.
-- **GitHub Repository:** [Link to the other GitHub repository](https://github.com/UniSACyber/S3ID)
+- **Technology Stack:** Same as the S3FS framework including TCPDump and CICFlowMeter.
+- **GitHub Repository:** [Link to the GitHub repository](https://github.com/UniSACyber/S3ID)
 - **Reference Paper:** Uhongora, U., Thinyane, M., & Law, YW. (2024) *"Development of an SDN-based Space Systems Simulation Framework for Intrusion Detection."* IEEE International Conference on Cyber Security and Resilience (IEEE CSR), *__forthcoming__*.
   
 ## How to Use These Repositories
