@@ -10,14 +10,14 @@ This project developed a simulation framework for SDN-based space systems for th
 
 - **Technologies Used:** Mininet, Python, Open vSwitch (OVS), Pox, OpenFlow
 - **GitHub Repository:** [Link to the GitHub repository](https://github.com/UniSACyber/S3FS)
-- **Reference Paper:** U. Uhongora, M. Thinyane and Y. W. Law, **"Development of an SDN-based Space System Simulation Framework for Intrusion Detection,"** 2025 IEEE International Conference on Cyber Security and Resilience (CSR), Chania, Crete, Greece, 2025, pp. 524-529, doi: 10.1109/CSR64739.2025.11130072.
+- **Reference Paper:** U. Uhongora, M. Thinyane and Y. W. Law, __"Development of an SDN-based Space System Simulation Framework for Intrusion Detection,"__ 2025 IEEE International Conference on Cyber Security and Resilience (CSR), Chania, Crete, Greece, 2025, pp. 524-529, [doi: 10.1109/CSR64739.2025.11130072](https://doi.org/10.1109/CSR64739.2025.11130072).
 
 ### S3ID - SDN-based Space Systems Intrusion Detection
 This project developed an intrusion detection dataset for SDN-based space systems, based on the S3FS framework. The dataset includes four classes of labelled data for normal traffic, two types of SYN flood attacks, and port scanning attacks. The dataset is designed to help researchers in developing intrusion detection systems (IDS) that can detect anomalies in SDN-based space systems.
 
 - **Technologies Used:** Same as the S3FS framework including TCPDump and CICFlowMeter.
 - **GitHub Repository:** [Link to the GitHub repository](https://github.com/UniSACyber/S3ID)
-- **Reference Paper:** U. Uhongora, M. Thinyane and Y. W. Law, **"Development of an SDN-based Space System Simulation Framework for Intrusion Detection,"** 2025 IEEE International Conference on Cyber Security and Resilience (CSR), Chania, Crete, Greece, 2025, pp. 524-529, doi: 10.1109/CSR64739.2025.11130072.
+- **Reference Paper:** U. Uhongora, M. Thinyane and Y. W. Law, __"Development of an SDN-based Space System Simulation Framework for Intrusion Detection,"__ 2025 IEEE International Conference on Cyber Security and Resilience (CSR), Chania, Crete, Greece, 2025, pp. 524-529, [doi: 10.1109/CSR64739.2025.11130072](https://doi.org/10.1109/CSR64739.2025.11130072).
 
 ### PSDSN - Programmable (data plane) Software Defined Satellite Networking
 This project aims to extend S3FS by incorporating (P4-enabled) data plane programmability within the simulation framework and investigating security use-cases and solutions enabled by the SD-Fabric within S3FS and for SDSNs. 
