@@ -23,7 +23,7 @@ This project developed an intrusion detection dataset for SDN-based space system
 This project aims to extend S3FS by incorporating (P4-enabled) data plane programmability within the simulation framework and investigating security use-cases and solutions enabled by the SD-Fabric within S3FS and for SDSNs. 
 
 - **Technologies Used:** S3FS, ONOS (micro-ONOS), Stratum BMv2, P4, OpenFlow, Docker, K8S
-- **GitHub Repository:** [Link to GitHub repository](https://github.com/UniSACyber/PSDSN) (*currently private*)
+- **GitHub Repository:** [Link to GitHub repository](https://github.com/UniSACyber/PSDSN)
   
 ## How to Use These Repositories
 Each repository contains its own README file with more detailed information about the project, licensing, how to install and run it, and any prerequisites you need to know about. Please refer to each repository's README for specific instructions on using the code or documentation provided. 
